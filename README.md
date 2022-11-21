@@ -1,5 +1,5 @@
 👋 About
- - 23 year old Data analyst from Kansas City
+ - 23 year old Data Analyst from Kansas City
  - Graduated from The University of Kansas
  - 
 👀 Projects
